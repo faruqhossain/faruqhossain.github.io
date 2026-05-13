@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. rer. nat. Md Faruq Hossain"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr. Md Faruq Hossain"
 description              : &description "Postdoctoral researcher in functional genomics and molecular biology"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://faruqhossain.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,21 +24,21 @@ repository               : "faruqhossain/faruqhossain.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Md Faruq Hossain"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Scientific researcher"
+  location         : "Greifswald, Germany"
+  employer         : "University Medicine Greifswald"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mail@faruqhossain.de" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=sD1CV7kAAAAJ&hl=en"
+  LinkedIn         : "www.linkedin.com/in/md-faruq-hossain"
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8346-063X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
